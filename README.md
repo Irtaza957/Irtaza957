@@ -3,7 +3,7 @@
 
 I would love to work in a challenging environment where I can reveal and prove my potential and abilities. Offering remarkable skills in web design and development. I’m a confident person who knows how to work in a drastic condition. <br> <br>
 
-- 🔭 working on Front-End technologies i.e: React JS, Vue JS🔥  
+- 🔭 Working on Front-End technologies i.e: React JS, Vue JS🔥  
 
 
 - 🌱 I really enjoy to automate things 😃
