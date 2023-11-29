@@ -1,18 +1,15 @@
 
-### <div align="center">I'm Mohid, a full-time full-stack freelance developer 👨‍💻</div> <br />
+### <div align="center">I'm Irtaza, a full-time Front-End developer 👨‍💻</div> <br />
 
 I would love to work in a challenging environment where I can reveal and prove my potential and abilities. Offering remarkable skills in web design and development. I’m a confident person who knows how to work in a drastic condition. <br> <br>
 
-- 🔭 Remotely working on <a href="https://www.fiverr.com/mohidkhan87" target="_blank">Fiverr</a> and <a href="https://www.upwork.com/freelancers/mohidkhan3" target="_blank">Upwork</a> 🔥  
+- 🔭 working on Front-End technologies i.e: React JS, Vue JS🔥  
 
 
 - 🌱 I really enjoy to automate things 😃
   
 
 - ❓ Ask me about anything related to frontend development
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  
@@ -23,30 +20,25 @@ I would love to work in a challenging environment where I can reveal and prove m
 - React.js | Next.js | Context API | Redux 
 - Vue.js | Nuxt.js | Vuex
 
-**Back end languages**
-- Java | Spring Boot
-- Core PHP | Laravel
-- Node | Express
-
 **Databases**
-- MySQL | MongoDB
+- SQL
 
 **UI Libraries**
-- Material UI | Styled-Components
+- TailwindCSS | Material UI | Styled-Components
 - Vuetify | BootstrapVue
-- TailwindCSS
+- SASS
 <br/>  
 
 ## Connect with me  
-<b>Email:</b> mohidkhan87@gmail.com <br> <b>Contact:</b> +92-303-4601932  
+<b>Email:</b> irtaza010@gmail.com <br> <b>Contact:</b> +92-303-5581349 
 <div align="center">
-<a href="https://github.com/mohidkhan87" target="_blank">
+<a href="https://github.com/Irtaza957" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://mohidk.com" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/mohid-khan-317065170/" target="_blank">
+<a href="https://www.linkedin.com/in/irtaza-shahbaz-980121238/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>
